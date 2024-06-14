@@ -3,17 +3,17 @@ ul {
     margin: 0;
     padding: 0;
     width: 150px;
-    background-color: #f6f6f6;
+    background-color: #ffffff;
   }
   
   li a {
     display: block;
-    color: rgb(0, 0, 0);
+    color: rgb(0, 170, 255);
     padding: 8px 16px;
     text-decoration: none;
   }
   
   li a:hover {
-    background-color:rgb(249, 0, 0);
-    color: rgb(255, 0, 0);}
+    background-color:rgb(0, 179, 255);
+    color: rgb(255, 255, 255);}
     
